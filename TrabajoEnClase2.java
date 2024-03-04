@@ -2,6 +2,9 @@ package co.com.ps.TrabajosEnClaseEntrega;
 //mi objeto es mi perro
 public class TrabajoEnClase2 {
 
+    public static void main(String[] args) {
+
+    }
  private String nombre;
  private Short edad;
  private String raza;
